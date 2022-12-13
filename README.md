@@ -15,4 +15,6 @@ programa-1.8.py - Identifica se o numero é primo.
 
 programa-1.9.py - Contagem dos numeros primos crescente de acordo com o numero digitado.
 
+programa-1.10.py - Contagem dos numeros primos crescente de acordo com o numero digitado - 2.
+
 programa-2.0.py - Soma, subtrai, multiplica e divide dois números.
