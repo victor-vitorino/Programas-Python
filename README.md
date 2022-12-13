@@ -19,4 +19,4 @@ programa-1.10.py - Contagem dos numeros primos crescente de acordo com o numero 
 
 programa-2.0.py - Soma, subtrai, multiplica e divide dois números.
 
-programa-2.1.py - Criação de listas.
+programa-2.1.py - Criação de listas e tuplas.
