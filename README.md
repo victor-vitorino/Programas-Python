@@ -1,7 +1,7 @@
 # Programas-Python
 Programas desenvolvidos em Python
 -----------------------------------------------------------------
-Lista de Programas 
+Lista de Programas Simples
 
 programa-1.1.py - Identifica o número mair entre os dois números.
 
