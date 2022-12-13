@@ -18,3 +18,5 @@ programa-1.9.py - Contagem dos numeros primos crescente de acordo com o numero d
 programa-1.10.py - Contagem dos numeros primos crescente de acordo com o numero digitado - 2.
 
 programa-2.0.py - Soma, subtrai, multiplica e divide dois números.
+
+programa-2.1.py - Criação de listas
